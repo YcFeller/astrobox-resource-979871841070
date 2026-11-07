@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "979871841070",
+    "restype": "watchface",
+    "name": "02可互动表盘",
+    "description": "02可互动表盘，使用外星技术实现人物可互动，背景可变换的实现效果~欢迎体验！\nQQ交流群：758279876",
+    "preview": [
+      "media/xuanfatu2.png",
+      "media/zs1.png",
+      "media/zs2.png",
+      "media/zs3.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/xuanfatu2.png",
+    "author": [
+      {
+        "name": "ycfeller",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/02可互动表盘V1.bin",
+      "versionCode": 65537
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/02可互动表盘V1.bin",
+      "versionCode": 65537
+    }
+  },
+  "ext": {}
+}
